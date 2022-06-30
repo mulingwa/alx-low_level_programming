@@ -1,2 +1,2 @@
 # alx-low_level_programming
-I an now loearning low level programming languages
+I an now learning low level programming languages
