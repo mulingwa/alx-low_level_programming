@@ -2,10 +2,9 @@
 #include <stdio.h>
 
 /**
- *isupper - check for uppercase letters
- *
- *return - (1) if uppercase or (0) if otherwise
- *
+ *_isupper - return i if c is uppercase
+ @c: checks last digit
+ *Return - returns 1 and 0 depending on condition
  **/
 
 int _isupper(int c)
